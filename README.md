@@ -6,7 +6,7 @@ the very basic (+ , - , * , / ,%) operations.
 1. jdk version 8
 2. netbeans IDE(Integrated Development Enviroment)
 
-#How To Run It
+# How To Run It
 simply double click on the build .jar file in the dist folder or open the command line interface and type java -jar [calculator jar] 
 (note : make sure your class path is set properly)
 
